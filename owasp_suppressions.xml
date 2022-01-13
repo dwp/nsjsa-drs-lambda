@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd">
+    <suppress>
+        <cwe>611</cwe>
+        <cve>CVE-2020-10693</cve>
+        <cve>CVE-2020-9488</cve>
+        <cve>CVE-2017-18640</cve>
+
+        <cve>CVE-2017-17485</cve>
+        <cve>CVE-2018-5968</cve>
+        <cve>CVE-2017-15095</cve>
+        <cve>CVE-2019-16942</cve>
+        <cve>CVE-2020-35491</cve>
+        <cve>CVE-2019-16943</cve>
+        <cve>CVE-2020-35490</cve>
+        <cve>CVE-2019-20330</cve>
+        <cve>CVE-2018-11307</cve>
+        <cve>CVE-2018-1000873</cve>
+        <cve>CVE-2018-7489</cve>
+        <cve>CVE-2019-17267</cve>
+        <cve>CVE-2019-17531</cve>
+        <cve>CVE-2019-16335</cve>
+        <cve>CVE-2019-14893</cve>
+        <cve>CVE-2019-14540</cve>
+    <cve>CVE-2020-8908</cve>
+	<cve>CVE-2021-28169</cve>
+	<cve>CVE-2021-34429</cve>
+    </suppress>
+</suppressions>
